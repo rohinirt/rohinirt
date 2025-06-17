@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋  Hello, I’m Rohini Tembhurnikar
 
-<!--
-**rohinirt/rohinirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A curious learner and aspiring Data Analyst passionate about turning messy data into meaningful stories.
 
-Here are some ideas to get you started:
+🧠 Skilled in Python, SQL, Excel, Tableau and Power BIi — and always exploring how to make data more actionable, visual, and impactful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Open to opportunities where I can analyze data, build beautiful dashboards, and grow in a collaborative environment.
+
+📌 Let’s connect:
+
+- [🌐 Portfolio](https://rohinisportfolio.godaddysites.com/home)
+- [💼 LinkedIn](https://www.linkedin.com/in/rohinitembhurnikar/)
+- [📈 Tableau](https://public.tableau.com/app/profile/rohini.tembhurnikar/vizzes)
