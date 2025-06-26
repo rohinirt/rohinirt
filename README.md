@@ -2,7 +2,7 @@
 
 🎓 A curious learner and aspiring Data Analyst passionate about turning messy data into meaningful stories.
 
-🧠 Skilled in Python, SQL, Excel, Tableau and Power BIi — and always exploring how to make data more actionable, visual, and impactful.
+🧠 Skilled in Python, SQL, Excel, Tableau and Power BI — and always exploring how to make data more actionable, visual, and impactful.
 
 🚀 Open to opportunities where I can analyze data, build beautiful dashboards, and grow in a collaborative environment.
 
