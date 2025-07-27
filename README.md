@@ -8,6 +8,6 @@
 
 📌 Let’s connect:
 
-- [🌐 Portfolio](https://rohinisportfolio.godaddysites.com/home)
-- [💼 LinkedIn](https://www.linkedin.com/in/rohinitembhurnikar/)
-- [📈 Tableau](https://public.tableau.com/app/profile/rohini.tembhurnikar/vizzes)
+- [ Portfolio](https://rohinisportfolio.godaddysites.com/home)
+- [ LinkedIn](https://www.linkedin.com/in/rohinitembhurnikar/)
+- [ Tableau](https://public.tableau.com/app/profile/rohini.tembhurnikar/vizzes)
