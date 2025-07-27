@@ -10,4 +10,4 @@
 
 - [Portfolio](https://rohinisportfolio.godaddysites.com/home)
 - [LinkedIn](https://www.linkedin.com/in/rohinitembhurnikar/)
-- [Tableau](https://public.tableau.com/app/profile/rohini.tembhurnikar/vizzes)
+- [Tableau](https://public.tableau.com/app/profile/rohini.tembhurnikar/vizzes
